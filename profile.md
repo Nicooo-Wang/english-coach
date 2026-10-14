@@ -6,7 +6,7 @@
 
 - 每天 8 题
 - 反馈极简：只给更 native 的说法和总分，用户提问才展开
-- 句子长度：**当前处于阶段 1**（简短单句，约 8–15 字），升阶段规则见 `AGENTS.md` 5.1
+- 句子长度：**当前处于阶段 1**（约 15–22 字，一个短背景分句 + 主句；用户觉得 8–15 字太短），升阶段规则见 `AGENTS.md` 5.1
 
 ## 整体水平
 
@@ -51,7 +51,7 @@
 5. **时态与完成体（G14）**：叙述已发生的事用了现在时；rebuttal 中"已补充"应该用现在完成时。（第 7、9、10、11 题）
 6. **礼貌拒绝与协商 / rebuttal（G20）**：We thank the reviewer for、We agree that … would、we have added … in the appendix。（第 10、13 题）
 7. **被动语态（G06）**：is take off。（第 8 题）
-8. **冠词与限定词（目前不在清单内，建议新增或贯穿所有题目）**：most of tasks 出现了两次；the kernel / kernels；guide model 缺 the；get promotion 缺 an。（第 6、12、13 题）
+8. **冠词与限定词（不单独设语法点，贯穿所有题目，见 `grammar/catalog.md`）**：most of tasks 出现了两次；the kernel / kernels；guide model 缺 the；get promotion 缺 an。（第 6、12、13 题）
 
 ## 常见中式表达
 
