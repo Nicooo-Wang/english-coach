@@ -63,6 +63,9 @@ function saveCards(cards) {
   fs.writeFileSync(CARDS, JSON.stringify(sorted, null, 2) + "\n");
 }
 
+// Same-day retries close the daily loop but don't count as SRS reviews.
+const scheduled = (c) => c.history.filter((h) => !h.retry);
+
 function promptFor(q, attempt) {
   const variants = q.variants || [];
   if (attempt === 0 || variants.length === 0) return { variant: 0, zh: q.zh, refs: q.refs };
@@ -83,12 +86,13 @@ function cmdToday(opts) {
   let remaining = Math.max(0, limit - doneToday);
 
   const due = Object.entries(cards)
-    .filter(([id, c]) => !c.mastered && c.due <= today && byId.has(id))
+    .filter(([id, c]) => !c.mastered && c.due <= today && byId.has(id) && !c.history.some((h) => h.date === today))
     .sort((a, b) => a[1].due.localeCompare(b[1].due) || a[0].localeCompare(b[0]))
     .slice(0, remaining)
     .map(([id, c]) => {
       const q = byId.get(id);
-      return { type: "review", id, review_no: c.history.length, overdue_days: daysBetween(c.due, today), ...base(q), ...promptFor(q, c.history.length) };
+      const n = scheduled(c).length;
+      return { type: "review", id, review_no: n, overdue_days: daysBetween(c.due, today), ...base(q), ...promptFor(q, n) };
     });
   remaining -= due.length;
 
@@ -97,7 +101,25 @@ function cmdToday(opts) {
     .slice(0, Math.min(remaining, Math.max(0, newMax - newDoneToday)))
     .map((q) => ({ type: "new", id: q.id, ...base(q), ...promptFor(q, 0) }));
 
-  console.log(JSON.stringify({ date: today, done_today: doneToday, items: [...due, ...fresh] }, null, 2));
+  const order = new Map(bank.map((q, i) => [q.id, i]));
+  const retry = Object.entries(cards)
+    .filter(([id, c]) => byId.has(id) && openToday(c, today))
+    .sort((a, b) => order.get(a[0]) - order.get(b[0]))
+    .map(([id, c]) => {
+      const q = byId.get(id);
+      const todays = c.history.filter((h) => h.date === today);
+      const v = todays[0].variant;
+      const prompt = v === 0 ? { variant: 0, zh: q.zh, refs: q.refs } : { variant: v, zh: q.variants[v - 1].zh, refs: q.variants[v - 1].refs };
+      return { type: "retry", id, attempts_today: todays.length, best_today: Math.max(...todays.map((h) => h.score)), ...base(q), ...prompt };
+    });
+
+  const closed = due.length === 0 && fresh.length === 0 && retry.length === 0;
+  console.log(JSON.stringify({ date: today, done_today: doneToday, closed, items: [...due, ...fresh], retry }, null, 2));
+}
+
+function openToday(c, today) {
+  const todays = c.history.filter((h) => h.date === today);
+  return todays.length > 0 && !todays.some((h) => h.pass);
 }
 
 function base(q) {
@@ -122,9 +144,18 @@ function cmdRecord(pos, opts) {
 
   const cards = loadCards();
   const c = cards[id] || { streak: 0, due: today, mastered: false, history: [] };
-  if (c.mastered) throw new Error(`${id} is already mastered`);
-  const { variant } = promptFor(q, c.history.length);
   const pass = score >= PASS;
+  const todays = c.history.filter((h) => h.date === today);
+  if (todays.length) {
+    if (!openToday(c, today)) throw new Error(`${id} already passed today`);
+    c.history.push({ date: today, score, variant: todays[0].variant, pass, retry: true });
+    cards[id] = c;
+    saveCards(cards);
+    console.log(JSON.stringify({ id, score, pass, retry: true, loop_closed: pass, streak: c.streak, next_due: c.due }));
+    return;
+  }
+  if (c.mastered) throw new Error(`${id} is already mastered`);
+  const { variant } = promptFor(q, scheduled(c).length);
   c.streak = pass ? c.streak + 1 : 0;
   c.history.push({ date: today, score, variant, pass });
   c.mastered = c.streak >= MASTERED_STREAK;
@@ -139,8 +170,9 @@ function cmdStats(opts) {
   const bank = loadBank();
   const cards = loadCards();
   const list = Object.values(cards);
-  const all = list.flatMap((c) => c.history);
+  const all = list.flatMap(scheduled);
   const todays = all.filter((h) => h.date === today);
+  const retriesToday = list.flatMap((c) => c.history).filter((h) => h.retry && h.date === today);
   const weekAgo = addDays(today, -6);
   const week = all.filter((h) => h.date >= weekAgo && h.date <= today);
   const avg = (xs) => (xs.length ? +(xs.reduce((s, h) => s + h.score, 0) / xs.length).toFixed(2) : null);
@@ -163,7 +195,13 @@ function cmdStats(opts) {
         learning: list.filter((c) => !c.mastered).length,
         mastered: list.filter((c) => c.mastered).length,
         due_today: list.filter((c) => !c.mastered && c.due <= today).length,
-        today: { count: todays.length, avg: avg(todays), pass_rate: rate(todays) },
+        today: {
+          count: todays.length,
+          avg: avg(todays),
+          pass_rate: rate(todays),
+          retries: retriesToday.length,
+          open_loop: Object.entries(cards).filter(([, c]) => openToday(c, today)).map(([id]) => id),
+        },
         last_7_days: { count: week.length, avg: avg(week), pass_rate: rate(week) },
         newly_mastered_today: Object.entries(cards)
           .filter(([, c]) => c.mastered && c.history.at(-1).date === today)
