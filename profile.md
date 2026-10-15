@@ -20,6 +20,12 @@
   3. **论文语域**：容易用 a lot of、That's why、it's still hard、Thanks 等口语表达；rebuttal 不熟悉固定句式。
   4. **语法细节**：冠词和限定词、时态（叙述过去的事用了现在时）、被动语态的分词形式、虚拟语气。
 
+## 每日练习记录
+
+| 日期 | 题数 | 平均分 | 通过率 | 主要问题 |
+|---|---|---|---|---|
+| 2026-10-15 | 8 | 3.44 | 0% | 仍然漏译关键词（反馈、顾虑、复现）；搭配错（different with、lost 代替 left、safe 说成 secure case）；mind 后接动词原形；把形容词 experimental 当名词用；"很早就到"误解成"到了很久" |
+
 ## 摸底得分
 
 | 题号 | 场景 | 难度 | 得分 | 主要问题 |
@@ -59,7 +65,7 @@
 |---|---|---|
 | order a room / flight | book a room / flight | 3（第 1、13、15 题） |
 | most of tasks / most of test cases | most tasks / most of the tasks | 2（第 6、12 题） |
-| help me check / help me fix | double-check that for me / take a look | 2（第 5、11 题） |
+| help me check / help me fix / help me order | double-check that for me / take a look / Could you book me … | 3（第 5、11 题；10-15 G01-T-02） |
 | the overweight part | excess baggage fee / the extra weight | 1 |
 | the after flight | connecting flight | 1 |
 | flight provider | airline | 1 |
@@ -75,3 +81,9 @@
 | Thanks for the reviewer | We thank the reviewer for … | 1 |
 | Is there any possibility to … | Would it be possible to …? | 1 |
 | with no extra fees | at no extra charge | 1 |
+| different with | different from / doesn't match | 1（10-15） |
+| lost my passport in …（落在） | left my passport in … | 1（10-15） |
+| secure case（保险箱） | safe / room safe | 1（10-15） |
+| laboratory settings（实验设置） | experimental setup | 1（10-15） |
+| the ablation experimental | the ablation results / study | 1（10-15） |
+| Do you mind send … | Would you mind sending …? | 1（10-15） |
