@@ -1,7 +1,7 @@
 {
   "G01-P-01": {
     "streak": 0,
-    "due": "2026-10-16",
+    "due": "2026-10-17",
     "mastered": false,
     "history": [
       {
@@ -23,12 +23,18 @@
         "variant": 0,
         "pass": true,
         "retry": true
+      },
+      {
+        "date": "2026-10-16",
+        "score": 4,
+        "variant": 1,
+        "pass": false
       }
     ]
   },
   "G01-P-02": {
     "streak": 0,
-    "due": "2026-10-16",
+    "due": "2026-10-17",
     "mastered": false,
     "history": [
       {
@@ -43,6 +49,12 @@
         "variant": 0,
         "pass": true,
         "retry": true
+      },
+      {
+        "date": "2026-10-16",
+        "score": 3.5,
+        "variant": 1,
+        "pass": false
       }
     ]
   },
