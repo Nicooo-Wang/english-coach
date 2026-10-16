@@ -5,7 +5,7 @@
 ## 练习偏好
 
 - 每天 8 题
-- 反馈极简：只给更 native 的说法和总分，用户提问才展开
+- 反馈：更 native 的说法（错误处加粗）+ 总分 + 3–5 行点评；回答提问两三行讲清，不列长清单
 - 句子长度：**当前处于阶段 1**（约 15–22 字，一个短背景分句 + 主句；用户觉得 8–15 字太短），升阶段规则见 `AGENTS.md` 5.1
 
 ## 整体水平
@@ -25,6 +25,7 @@
 | 日期 | 题数 | 平均分（首次） | 通过率（首次） | 闭环重做 | 主要问题 |
 |---|---|---|---|---|---|
 | 2026-10-15 | 8 | 3.44 | 0% | 13 次（3 轮） | might + 动词原形（might lost，重做 3 次才改成 might have left）；主谓一致（results shows）；冠词； 仍然漏译关键词（反馈、顾虑、复现）；搭配错（different with、lost 代替 left、safe 说成 secure case）；mind 后接动词原形；把形容词 experimental 当名词用；"很早就到"误解成"到了很久" |
+| 2026-10-16 | 8（全复习） | 3.50 | 13% | 15 次（4 轮） | might lost 再次出现（重做后改为 I think I left）；send 当“送上楼”用（应为 bring up）；help me 冗余仍多；Could you mind（混淆 Could / Would mind）；more iteration 缺复数、iterations helps 主谓一致；house price / order 代替 room rate / book；比较对象错（than I booked → than when I booked）；漏译“一点”“刚才那辆” |
 
 ## 摸底得分
 
@@ -87,3 +88,8 @@
 | laboratory settings（实验设置） | experimental setup | 1（10-15） |
 | the ablation experimental | the ablation results / study | 1（10-15） |
 | Do you mind send … | Would you mind sending …? | 1（10-15） |
+| house price（酒店房价） | room rate | 1（10-16） |
+| send my luggage to my room | bring my luggage up to my room | 2（10-16） |
+| Could you mind ... | Would you mind ...ing? | 1（10-16） |
+| until at night | until the evening / until tonight | 1（10-16） |
+| is helpful for speed up | help achieve further speedups | 1（10-16） |
