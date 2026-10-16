@@ -93,7 +93,7 @@
   },
   "G01-T-02": {
     "streak": 0,
-    "due": "2026-10-16",
+    "due": "2026-10-17",
     "mastered": false,
     "history": [
       {
@@ -108,12 +108,18 @@
         "variant": 0,
         "pass": true,
         "retry": true
+      },
+      {
+        "date": "2026-10-16",
+        "score": 3.5,
+        "variant": 1,
+        "pass": false
       }
     ]
   },
   "G10-P-01": {
-    "streak": 0,
-    "due": "2026-10-16",
+    "streak": 1,
+    "due": "2026-10-17",
     "mastered": false,
     "history": [
       {
@@ -128,12 +134,18 @@
         "variant": 0,
         "pass": true,
         "retry": true
+      },
+      {
+        "date": "2026-10-16",
+        "score": 4.5,
+        "variant": 1,
+        "pass": true
       }
     ]
   },
   "G10-P-02": {
     "streak": 0,
-    "due": "2026-10-16",
+    "due": "2026-10-17",
     "mastered": false,
     "history": [
       {
@@ -155,12 +167,18 @@
         "variant": 0,
         "pass": true,
         "retry": true
+      },
+      {
+        "date": "2026-10-16",
+        "score": 4,
+        "variant": 1,
+        "pass": false
       }
     ]
   },
   "G10-T-01": {
     "streak": 0,
-    "due": "2026-10-16",
+    "due": "2026-10-17",
     "mastered": false,
     "history": [
       {
@@ -189,12 +207,18 @@
         "variant": 0,
         "pass": true,
         "retry": true
+      },
+      {
+        "date": "2026-10-16",
+        "score": 2.5,
+        "variant": 1,
+        "pass": false
       }
     ]
   },
   "G10-T-02": {
     "streak": 0,
-    "due": "2026-10-16",
+    "due": "2026-10-17",
     "mastered": false,
     "history": [
       {
@@ -209,6 +233,12 @@
         "variant": 0,
         "pass": true,
         "retry": true
+      },
+      {
+        "date": "2026-10-16",
+        "score": 2,
+        "variant": 1,
+        "pass": false
       }
     ]
   }
