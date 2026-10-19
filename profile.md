@@ -26,6 +26,7 @@
 |---|---|---|---|---|---|
 | 2026-10-15 | 8 | 3.44 | 0% | 13 次（3 轮） | might + 动词原形（might lost，重做 3 次才改成 might have left）；主谓一致（results shows）；冠词； 仍然漏译关键词（反馈、顾虑、复现）；搭配错（different with、lost 代替 left、safe 说成 secure case）；mind 后接动词原形；把形容词 experimental 当名词用；"很早就到"误解成"到了很久" |
 | 2026-10-16 | 8（全复习） | 3.50 | 13% | 15 次（4 轮） | might lost 再次出现（重做后改为 I think I left）；send 当“送上楼”用（应为 bring up）；help me 冗余仍多；Could you mind（混淆 Could / Would mind）；more iteration 缺复数、iterations helps 主谓一致；house price / order 代替 room rate / book；比较对象错（than I booked → than when I booked）；漏译“一点”“刚才那辆” |
+| 2026-10-19 | 8（全复习，逾期 2 天） | 3.50 | 13% | 8 次（2 轮） | 关键名词用错：essays（references）、abstraction（abstract）、onboarding ticket（boarding pass）、room card（key card）；Is it possible 仍代替 Would it be possible；Could you please helping；漏 be（might because）；加料 much；零钱/少了十块不会说（change / ten short）。亮点：I think I left 首次作答即通过，大部分题重做 1 次就过 |
 
 ## 摸底得分
 
@@ -93,3 +94,9 @@
 | Could you mind ... | Would you mind ...ing? | 1（10-16） |
 | until at night | until the evening / until tonight | 1（10-16） |
 | is helpful for speed up | help achieve further speedups | 1（10-16） |
+| related essays（参考文献） | references | 1（10-19） |
+| abstraction（摘要） | abstract | 1（10-19） |
+| onboarding ticket | boarding pass | 1（10-19） |
+| change my room | change rooms | 1（10-19） |
+| room card | key card / room key | 1（10-19） |
+| could you please helping me | Could you + 动词原形 | 1（10-19） |
