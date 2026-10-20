@@ -1,7 +1,7 @@
 {
   "G01-P-01": {
-    "streak": 0,
-    "due": "2026-10-20",
+    "streak": 1,
+    "due": "2026-10-21",
     "mastered": false,
     "history": [
       {
@@ -56,12 +56,18 @@
         "variant": 2,
         "pass": true,
         "retry": true
+      },
+      {
+        "date": "2026-10-20",
+        "score": 5,
+        "variant": 1,
+        "pass": true
       }
     ]
   },
   "G01-P-02": {
-    "streak": 0,
-    "due": "2026-10-20",
+    "streak": 1,
+    "due": "2026-10-21",
     "mastered": false,
     "history": [
       {
@@ -116,12 +122,18 @@
         "variant": 2,
         "pass": true,
         "retry": true
+      },
+      {
+        "date": "2026-10-20",
+        "score": 5,
+        "variant": 1,
+        "pass": true
       }
     ]
   },
   "G01-T-01": {
-    "streak": 0,
-    "due": "2026-10-20",
+    "streak": 1,
+    "due": "2026-10-21",
     "mastered": false,
     "history": [
       {
@@ -176,12 +188,18 @@
         "variant": 2,
         "pass": true,
         "retry": true
+      },
+      {
+        "date": "2026-10-20",
+        "score": 5,
+        "variant": 1,
+        "pass": true
       }
     ]
   },
   "G01-T-02": {
-    "streak": 0,
-    "due": "2026-10-20",
+    "streak": 1,
+    "due": "2026-10-21",
     "mastered": false,
     "history": [
       {
@@ -229,12 +247,18 @@
         "variant": 2,
         "pass": true,
         "retry": true
+      },
+      {
+        "date": "2026-10-20",
+        "score": 5,
+        "variant": 1,
+        "pass": true
       }
     ]
   },
   "G10-P-01": {
-    "streak": 0,
-    "due": "2026-10-20",
+    "streak": 1,
+    "due": "2026-10-21",
     "mastered": false,
     "history": [
       {
@@ -268,12 +292,18 @@
         "variant": 2,
         "pass": true,
         "retry": true
+      },
+      {
+        "date": "2026-10-20",
+        "score": 4.5,
+        "variant": 1,
+        "pass": true
       }
     ]
   },
   "G10-P-02": {
     "streak": 0,
-    "due": "2026-10-20",
+    "due": "2026-10-21",
     "mastered": false,
     "history": [
       {
@@ -340,14 +370,69 @@
         "date": "2026-10-19",
         "score": 4.5,
         "variant": 2,
+        "pass": true,
+        "retry": true
+      },
+      {
+        "date": "2026-10-20",
+        "score": 3.5,
+        "variant": 1,
+        "pass": false
+      },
+      {
+        "date": "2026-10-20",
+        "score": 4,
+        "variant": 1,
+        "pass": false,
+        "retry": true
+      },
+      {
+        "date": "2026-10-20",
+        "score": 4,
+        "variant": 1,
+        "pass": false,
+        "retry": true
+      },
+      {
+        "date": "2026-10-20",
+        "score": 4,
+        "variant": 1,
+        "pass": false,
+        "retry": true
+      },
+      {
+        "date": "2026-10-20",
+        "score": 3.5,
+        "variant": 1,
+        "pass": false,
+        "retry": true
+      },
+      {
+        "date": "2026-10-20",
+        "score": 4,
+        "variant": 1,
+        "pass": false,
+        "retry": true
+      },
+      {
+        "date": "2026-10-20",
+        "score": 4,
+        "variant": 1,
+        "pass": false,
+        "retry": true
+      },
+      {
+        "date": "2026-10-20",
+        "score": 5,
+        "variant": 1,
         "pass": true,
         "retry": true
       }
     ]
   },
   "G10-T-01": {
-    "streak": 1,
-    "due": "2026-10-20",
+    "streak": 0,
+    "due": "2026-10-21",
     "mastered": false,
     "history": [
       {
@@ -395,12 +480,32 @@
         "score": 4.5,
         "variant": 2,
         "pass": true
+      },
+      {
+        "date": "2026-10-20",
+        "score": 4,
+        "variant": 1,
+        "pass": false
+      },
+      {
+        "date": "2026-10-20",
+        "score": 4,
+        "variant": 1,
+        "pass": false,
+        "retry": true
+      },
+      {
+        "date": "2026-10-20",
+        "score": 4.5,
+        "variant": 1,
+        "pass": true,
+        "retry": true
       }
     ]
   },
   "G10-T-02": {
     "streak": 0,
-    "due": "2026-10-20",
+    "due": "2026-10-21",
     "mastered": false,
     "history": [
       {
@@ -446,6 +551,33 @@
         "date": "2026-10-19",
         "score": 4.5,
         "variant": 2,
+        "pass": true,
+        "retry": true
+      },
+      {
+        "date": "2026-10-20",
+        "score": 3.5,
+        "variant": 1,
+        "pass": false
+      },
+      {
+        "date": "2026-10-20",
+        "score": 4,
+        "variant": 1,
+        "pass": false,
+        "retry": true
+      },
+      {
+        "date": "2026-10-20",
+        "score": 4,
+        "variant": 1,
+        "pass": false,
+        "retry": true
+      },
+      {
+        "date": "2026-10-20",
+        "score": 5,
+        "variant": 1,
         "pass": true,
         "retry": true
       }

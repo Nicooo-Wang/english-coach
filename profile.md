@@ -27,6 +27,7 @@
 | 2026-10-15 | 8 | 3.44 | 0% | 13 次（3 轮） | might + 动词原形（might lost，重做 3 次才改成 might have left）；主谓一致（results shows）；冠词； 仍然漏译关键词（反馈、顾虑、复现）；搭配错（different with、lost 代替 left、safe 说成 secure case）；mind 后接动词原形；把形容词 experimental 当名词用；"很早就到"误解成"到了很久" |
 | 2026-10-16 | 8（全复习） | 3.50 | 13% | 15 次（4 轮） | might lost 再次出现（重做后改为 I think I left）；send 当“送上楼”用（应为 bring up）；help me 冗余仍多；Could you mind（混淆 Could / Would mind）；more iteration 缺复数、iterations helps 主谓一致；house price / order 代替 room rate / book；比较对象错（than I booked → than when I booked）；漏译“一点”“刚才那辆” |
 | 2026-10-19 | 8（全复习，逾期 2 天） | 3.50 | 13% | 8 次（2 轮） | 关键名词用错：essays（references）、abstraction（abstract）、onboarding ticket（boarding pass）、room card（key card）；Is it possible 仍代替 Would it be possible；Could you please helping；漏 be（might because）；加料 much；零钱/少了十块不会说（change / ten short）。亮点：I think I left 首次作答即通过，大部分题重做 1 次就过 |
+| 2026-10-20 | 8（全复习） | 4.44 | 63% | 12 次（7 轮） | 主谓一致反复错（iterations is / helps）；help + 名词 / help for（应为 help achieve further speedups，重做 7 次才过）；on the taxi；tooked；much 代替“一点”、漏“好像”；than I booked。亮点：G01 四题首次全部满分，Would it be possible / Would you mind / Could you 已基本掌握 |
 
 ## 摸底得分
 
@@ -100,3 +101,6 @@
 | change my room | change rooms | 1（10-19） |
 | room card | key card / room key | 1（10-19） |
 | could you please helping me | Could you + 动词原形 | 1（10-19） |
+| left my phone on the taxi | in the taxi | 2（10-20） |
+| is helpful to speed up / help for the speedups | help achieve further speedups | 3（10-16、10-20） |
+| much higher（“高了一点”） | a bit / slightly higher | 1（10-20） |
