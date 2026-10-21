@@ -28,6 +28,7 @@
 | 2026-10-16 | 8（全复习） | 3.50 | 13% | 15 次（4 轮） | might lost 再次出现（重做后改为 I think I left）；send 当“送上楼”用（应为 bring up）；help me 冗余仍多；Could you mind（混淆 Could / Would mind）；more iteration 缺复数、iterations helps 主谓一致；house price / order 代替 room rate / book；比较对象错（than I booked → than when I booked）；漏译“一点”“刚才那辆” |
 | 2026-10-19 | 8（全复习，逾期 2 天） | 3.50 | 13% | 8 次（2 轮） | 关键名词用错：essays（references）、abstraction（abstract）、onboarding ticket（boarding pass）、room card（key card）；Is it possible 仍代替 Would it be possible；Could you please helping；漏 be（might because）；加料 much；零钱/少了十块不会说（change / ten short）。亮点：I think I left 首次作答即通过，大部分题重做 1 次就过 |
 | 2026-10-20 | 8（全复习） | 4.44 | 63% | 12 次（7 轮） | 主谓一致反复错（iterations is / helps）；help + 名词 / help for（应为 help achieve further speedups，重做 7 次才过）；on the taxi；tooked；much 代替“一点”、漏“好像”；than I booked。亮点：G01 四题首次全部满分，Would it be possible / Would you mind / Could you 已基本掌握 |
+| 2026-10-21 | 8（全复习） | 4.50 | 75% | 2 次（1 轮） | 漏译时间状语“投稿前”；“改”说成 review（应为 revise / polish）；helping me to + 动词仍有残留；零钱 changes（不可数）、give 未用过去式、seem 后缺 to be。亮点：首次平均分最高；G10-P-02 前一天重做 7 次，今天一次通过；两道重做题都是一次就过 |
 
 ## 摸底得分
 
@@ -104,3 +105,5 @@
 | left my phone on the taxi | in the taxi | 2（10-20） |
 | is helpful to speed up / help for the speedups | help achieve further speedups | 3（10-16、10-20） |
 | much higher（“高了一点”） | a bit / slightly higher | 1（10-20） |
+| review the abstract（“改”摘要） | revise / polish the abstract | 1（10-21） |
+| the changes you give me（零钱） | the change you gave me | 1（10-21） |

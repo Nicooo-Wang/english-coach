@@ -1,7 +1,7 @@
 {
   "G01-P-01": {
-    "streak": 1,
-    "due": "2026-10-21",
+    "streak": 2,
+    "due": "2026-10-23",
     "mastered": false,
     "history": [
       {
@@ -61,13 +61,19 @@
         "date": "2026-10-20",
         "score": 5,
         "variant": 1,
+        "pass": true
+      },
+      {
+        "date": "2026-10-21",
+        "score": 5,
+        "variant": 2,
         "pass": true
       }
     ]
   },
   "G01-P-02": {
-    "streak": 1,
-    "due": "2026-10-21",
+    "streak": 0,
+    "due": "2026-10-22",
     "mastered": false,
     "history": [
       {
@@ -128,12 +134,25 @@
         "score": 5,
         "variant": 1,
         "pass": true
+      },
+      {
+        "date": "2026-10-21",
+        "score": 3.5,
+        "variant": 2,
+        "pass": false
+      },
+      {
+        "date": "2026-10-21",
+        "score": 4.5,
+        "variant": 2,
+        "pass": true,
+        "retry": true
       }
     ]
   },
   "G01-T-01": {
-    "streak": 1,
-    "due": "2026-10-21",
+    "streak": 2,
+    "due": "2026-10-23",
     "mastered": false,
     "history": [
       {
@@ -193,13 +212,19 @@
         "date": "2026-10-20",
         "score": 5,
         "variant": 1,
+        "pass": true
+      },
+      {
+        "date": "2026-10-21",
+        "score": 4.5,
+        "variant": 2,
         "pass": true
       }
     ]
   },
   "G01-T-02": {
-    "streak": 1,
-    "due": "2026-10-21",
+    "streak": 2,
+    "due": "2026-10-23",
     "mastered": false,
     "history": [
       {
@@ -253,12 +278,18 @@
         "score": 5,
         "variant": 1,
         "pass": true
+      },
+      {
+        "date": "2026-10-21",
+        "score": 5,
+        "variant": 2,
+        "pass": true
       }
     ]
   },
   "G10-P-01": {
-    "streak": 1,
-    "due": "2026-10-21",
+    "streak": 2,
+    "due": "2026-10-23",
     "mastered": false,
     "history": [
       {
@@ -297,13 +328,19 @@
         "date": "2026-10-20",
         "score": 4.5,
         "variant": 1,
+        "pass": true
+      },
+      {
+        "date": "2026-10-21",
+        "score": 5,
+        "variant": 2,
         "pass": true
       }
     ]
   },
   "G10-P-02": {
-    "streak": 0,
-    "due": "2026-10-21",
+    "streak": 1,
+    "due": "2026-10-22",
     "mastered": false,
     "history": [
       {
@@ -427,12 +464,18 @@
         "variant": 1,
         "pass": true,
         "retry": true
+      },
+      {
+        "date": "2026-10-21",
+        "score": 4.5,
+        "variant": 2,
+        "pass": true
       }
     ]
   },
   "G10-T-01": {
-    "streak": 0,
-    "due": "2026-10-21",
+    "streak": 1,
+    "due": "2026-10-22",
     "mastered": false,
     "history": [
       {
@@ -500,12 +543,18 @@
         "variant": 1,
         "pass": true,
         "retry": true
+      },
+      {
+        "date": "2026-10-21",
+        "score": 5,
+        "variant": 2,
+        "pass": true
       }
     ]
   },
   "G10-T-02": {
     "streak": 0,
-    "due": "2026-10-21",
+    "due": "2026-10-22",
     "mastered": false,
     "history": [
       {
@@ -578,6 +627,19 @@
         "date": "2026-10-20",
         "score": 5,
         "variant": 1,
+        "pass": true,
+        "retry": true
+      },
+      {
+        "date": "2026-10-21",
+        "score": 3.5,
+        "variant": 2,
+        "pass": false
+      },
+      {
+        "date": "2026-10-21",
+        "score": 5,
+        "variant": 2,
         "pass": true,
         "retry": true
       }
