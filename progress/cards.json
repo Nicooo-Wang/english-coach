@@ -159,6 +159,20 @@
         "score": 4,
         "variant": 1,
         "pass": false
+      },
+      {
+        "date": "2026-10-23",
+        "score": 4,
+        "variant": 1,
+        "pass": false,
+        "retry": true
+      },
+      {
+        "date": "2026-10-23",
+        "score": 5,
+        "variant": 1,
+        "pass": true,
+        "retry": true
       }
     ]
   },
@@ -308,6 +322,13 @@
         "score": 4,
         "variant": 1,
         "pass": false
+      },
+      {
+        "date": "2026-10-23",
+        "score": 5,
+        "variant": 1,
+        "pass": true,
+        "retry": true
       }
     ]
   },
@@ -506,6 +527,13 @@
         "score": 3.5,
         "variant": 1,
         "pass": false
+      },
+      {
+        "date": "2026-10-23",
+        "score": 4.5,
+        "variant": 1,
+        "pass": true,
+        "retry": true
       }
     ]
   },

@@ -29,6 +29,7 @@
 | 2026-10-19 | 8（全复习，逾期 2 天） | 3.50 | 13% | 8 次（2 轮） | 关键名词用错：essays（references）、abstraction（abstract）、onboarding ticket（boarding pass）、room card（key card）；Is it possible 仍代替 Would it be possible；Could you please helping；漏 be（might because）；加料 much；零钱/少了十块不会说（change / ten short）。亮点：I think I left 首次作答即通过，大部分题重做 1 次就过 |
 | 2026-10-20 | 8（全复习） | 4.44 | 63% | 12 次（7 轮） | 主谓一致反复错（iterations is / helps）；help + 名词 / help for（应为 help achieve further speedups，重做 7 次才过）；on the taxi；tooked；much 代替“一点”、漏“好像”；than I booked。亮点：G01 四题首次全部满分，Would it be possible / Would you mind / Could you 已基本掌握 |
 | 2026-10-21 | 8（全复习） | 4.50 | 75% | 2 次（1 轮） | 漏译时间状语“投稿前”；“改”说成 review（应为 revise / polish）；helping me to + 动词仍有残留；零钱 changes（不可数）、give 未用过去式、seem 后缺 to be。亮点：首次平均分最高；G10-P-02 前一天重做 7 次，今天一次通过；两道重做题都是一次就过 |
+| 2026-10-23 | 8（全复习，10-22 未练，4 题逾期 1 天） | 4.50 | 63% | 4 次（2 轮） | help me + 动词再次回潮（helping me to check / take a look、help me bring it up），G01-P-02、G01-T-02 都是 10-20 首答满分的题；iterations is 主谓一致第三次出错；“有助于”直译成 is helpful for；箱子说成 backpack；until night。亮点：4 题首答满分，10-20 的 on the taxi、tooked、much、than I booked 都没再出现；近 2 周平均 3.98，接近阶段 2 门槛 |
 
 ## 摸底得分
 
@@ -69,7 +70,7 @@
 |---|---|---|
 | order a room / flight | book a room / flight | 3（第 1、13、15 题） |
 | most of tasks / most of test cases | most tasks / most of the tasks | 2（第 6、12 题） |
-| help me check / help me fix / help me order | double-check that for me / take a look / Could you book me … | 3（第 5、11 题；10-15 G01-T-02） |
+| help me check / help me fix / help me order / helping me to take a look / help me bring it up | double-check that for me / take a look / Could you book me … / Would you mind taking a look … (for me) / Could you bring it up … | 7（第 5、11 题；10-15 G01-T-02；10-21 G01-P-02；10-23 G01-P-02 ×2、G01-T-02） |
 | the overweight part | excess baggage fee / the extra weight | 1 |
 | the after flight | connecting flight | 1 |
 | flight provider | airline | 1 |
@@ -94,7 +95,7 @@
 | house price（酒店房价） | room rate | 1（10-16） |
 | send my luggage to my room | bring my luggage up to my room | 2（10-16） |
 | Could you mind ... | Would you mind ...ing? | 1（10-16） |
-| until at night | until the evening / until tonight | 1（10-16） |
+| until at night / until night | until the evening / until tonight | 2（10-16、10-23） |
 | is helpful for speed up | help achieve further speedups | 1（10-16） |
 | related essays（参考文献） | references | 1（10-19） |
 | abstraction（摘要） | abstract | 1（10-19） |
@@ -103,7 +104,9 @@
 | room card | key card / room key | 1（10-19） |
 | could you please helping me | Could you + 动词原形 | 1（10-19） |
 | left my phone on the taxi | in the taxi | 2（10-20） |
-| is helpful to speed up / help for the speedups | help achieve further speedups | 3（10-16、10-20） |
+| is helpful to speed up / help for the speedups / is helpful for further speedups | help achieve further speedups | 4（10-16、10-20、10-23） |
 | much higher（“高了一点”） | a bit / slightly higher | 1（10-20） |
 | review the abstract（“改”摘要） | revise / polish the abstract | 1（10-21） |
 | the changes you give me（零钱） | the change you gave me | 1（10-21） |
+| backpack（箱子） | suitcase | 1（10-23） |
+| check why（看看为什么） | take a look at why / look into why | 1（10-23） |
