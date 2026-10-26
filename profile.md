@@ -30,6 +30,7 @@
 | 2026-10-20 | 8（全复习） | 4.44 | 63% | 12 次（7 轮） | 主谓一致反复错（iterations is / helps）；help + 名词 / help for（应为 help achieve further speedups，重做 7 次才过）；on the taxi；tooked；much 代替“一点”、漏“好像”；than I booked。亮点：G01 四题首次全部满分，Would it be possible / Would you mind / Could you 已基本掌握 |
 | 2026-10-21 | 8（全复习） | 4.50 | 75% | 2 次（1 轮） | 漏译时间状语“投稿前”；“改”说成 review（应为 revise / polish）；helping me to + 动词仍有残留；零钱 changes（不可数）、give 未用过去式、seem 后缺 to be。亮点：首次平均分最高；G10-P-02 前一天重做 7 次，今天一次通过；两道重做题都是一次就过 |
 | 2026-10-23 | 8（全复习，10-22 未练，4 题逾期 1 天） | 4.50 | 63% | 4 次（2 轮） | help me + 动词再次回潮（helping me to check / take a look、help me bring it up），G01-P-02、G01-T-02 都是 10-20 首答满分的题；iterations is 主谓一致第三次出错；“有助于”直译成 is helpful for；箱子说成 backpack；until night。亮点：4 题首答满分，10-20 的 on the taxi、tooked、much、than I booked 都没再出现；近 2 周平均 3.98，接近阶段 2 门槛 |
+| 2026-10-26 | 8（5 复习 + 3 新题；10-24、10-25 未练） | 4.25 | 63% | 5 次（2 轮） | 新题首答都没过：航班“被延误”用了主动 might delay（被动语态）；“适用于”说成 suit for / useful for，hardware 加 s，漏译“也”；寄存行李用 put、until afternoon 缺 this、行李说成 package。复习题残留：suggest 后漏 that（第 3 次）、seem 后缺 to be、the boarding pass 应为 my。亮点：5 道复习题首答全部通过（平均 4.6），help me + 动词没再出现；近 2 周平均 4.02，首次达到阶段 2 门槛 |
 
 ## 摸底得分
 
@@ -61,8 +62,8 @@
 4. **比较级与程度（G13）**：over 2×、by 15%、quieter、Unlike 的比较对象必须同类。（第 4、6、8、15 题）
 5. **时态与完成体（G14）**：叙述已发生的事用了现在时；rebuttal 中"已补充"应该用现在完成时。（第 7、9、10、11 题）
 6. **礼貌拒绝与协商 / rebuttal（G20）**：We thank the reviewer for、We agree that … would、we have added … in the appendix。（第 10、13 题）
-7. **被动语态（G06）**：is take off。（第 8 题）
-8. **冠词与限定词（不单独设语法点，贯穿所有题目，见 `grammar/catalog.md`）**：most of tasks 出现了两次；the kernel / kernels；guide model 缺 the；get promotion 缺 an。（第 6、12、13 题）
+7. **被动语态（G06）**：is take off。（第 8 题）10-26 又出现 my flight might delay（应为 might be delayed）。
+8. **冠词与限定词（不单独设语法点，贯穿所有题目，见 `grammar/catalog.md`）**：most of tasks 出现了两次；the kernel / kernels；guide model 缺 the；get promotion 缺 an。（第 6、12、13 题）10-26：the boarding pass（应为 my）、until afternoon（缺 this）、hardwares（不可数）。
 
 ## 常见中式表达
 
@@ -95,7 +96,7 @@
 | house price（酒店房价） | room rate | 1（10-16） |
 | send my luggage to my room | bring my luggage up to my room | 2（10-16） |
 | Could you mind ... | Would you mind ...ing? | 1（10-16） |
-| until at night / until night | until the evening / until tonight | 2（10-16、10-23） |
+| until at night / until night / until afternoon | until the evening / until tonight / until this afternoon | 3（10-16、10-23、10-26） |
 | is helpful for speed up | help achieve further speedups | 1（10-16） |
 | related essays（参考文献） | references | 1（10-19） |
 | abstraction（摘要） | abstract | 1（10-19） |
@@ -110,3 +111,8 @@
 | the changes you give me（零钱） | the change you gave me | 1（10-21） |
 | backpack（箱子） | suitcase | 1（10-23） |
 | check why（看看为什么） | take a look at why / look into why | 1（10-23） |
+| my flight might delay（航班延误） | my flight might be delayed | 1（10-26） |
+| suit for / be useful for / be applicable for（适用于） | apply to / be applicable to | 3（10-26） |
+| hardwares | hardware（不可数） | 2（10-26） |
+| put my luggage here until …（寄存） | leave my luggage here until … | 1（10-26） |
+| package（行李） | luggage / bags | 1（10-26） |
