@@ -32,6 +32,7 @@
 | 2026-10-23 | 8（全复习，10-22 未练，4 题逾期 1 天） | 4.50 | 63% | 4 次（2 轮） | help me + 动词再次回潮（helping me to check / take a look、help me bring it up），G01-P-02、G01-T-02 都是 10-20 首答满分的题；iterations is 主谓一致第三次出错；“有助于”直译成 is helpful for；箱子说成 backpack；until night。亮点：4 题首答满分，10-20 的 on the taxi、tooked、much、than I booked 都没再出现；近 2 周平均 3.98，接近阶段 2 门槛 |
 | 2026-10-26 | 8（5 复习 + 3 新题；10-24、10-25 未练） | 4.25 | 63% | 5 次（2 轮） | 新题首答都没过：航班“被延误”用了主动 might delay（被动语态）；“适用于”说成 suit for / useful for，hardware 加 s，漏译“也”；寄存行李用 put、until afternoon 缺 this、行李说成 package。复习题残留：suggest 后漏 that（第 3 次）、seem 后缺 to be、the boarding pass 应为 my。亮点：5 道复习题首答全部通过（平均 4.6），help me + 动词没再出现；近 2 周平均 4.02，首次达到阶段 2 门槛 |
 | 2026-10-27 | 8（全复习；当天起进入阶段 2） | 4.56 | 63% | 5 次（3 轮） | “适用于”说成 be suitable for，重做到第 3 轮才改成 apply to（10-26 是 suit for / useful for）；参考文献说成单数 reference + about this point；换房间说成 exchange rooms；“借”说成 rent，“忘带”用 take。亮点：首次平均分目前最高；G10-P-02 以前错过的 iterations is、is helpful for、漏 that 全部改对；help me + 动词连续两天没出现；近 2 周平均 4.09 |
+| 2026-10-28 | 8（5 复习 + 3 新题） | 3.69 | 25% | 14 次（5 轮） | 3 道新题都没过：虚拟语气首答完全没用（If I know …, we take …），重做里主句说成 would take / would taken，第 5 次才说出 would have taken；“往往”说成 always，To compare with 代替 Compared with；Is there any possible to 代替 Would it be possible to，漏译“几天”。复习题：“前一班”说成 the last flight（3 次）、转机说成 next flight；看房间用 watch、加料 layout、before I booked；applicable for。冠词、单复数、主谓一致集中出现（next flight、take subway、baseline method、other … language、a traffic、GEAK tend）。亮点：复习题平均 4.20，G01-P-01、G10-T-02 首答满分；近 2 周平均 4.04 |
 
 ## 摸底得分
 
@@ -57,14 +58,14 @@
 
 按优先级排序，括号里是对应的 `grammar/catalog.md` 编号和摸底题号。
 
-1. **Hedging 与情态（G10）**：好像、往往、不足以、可能，不是漏掉就是说得太绝对。（第 3、12、14 题）
+1. **Hedging 与情态（G10）**：好像、往往、不足以、可能，不是漏掉就是说得太绝对。（第 3、12、14 题）10-28：“往往”说成 always（论文里等于把话说满），重做两次才用上 tends to。
 2. **委婉请求与许可（G01）**：习惯用 help me + 动词、Is there any possibility to、Can you；不熟悉 Would it be possible to / Would you mind …ing。（第 3、5、11、15 题）
-3. **虚拟语气（G03）**：对过去的假设用了真实条件句。（第 15 题）
+3. **虚拟语气（G03）**：对过去的假设用了真实条件句。（第 15 题）10-28 第一次在练习中出现（G03-T-01）：首答又是 If I know …, we take …；从句 If I'd known 学得快，主句 would have + 过去分词最难，先后说成 would take、would taken，重做 5 次才说对。
 4. **比较级与程度（G13）**：over 2×、by 15%、quieter、Unlike 的比较对象必须同类。（第 4、6、8、15 题）
 5. **时态与完成体（G14）**：叙述已发生的事用了现在时；rebuttal 中"已补充"应该用现在完成时。（第 7、9、10、11 题）
 6. **礼貌拒绝与协商 / rebuttal（G20）**：We thank the reviewer for、We agree that … would、we have added … in the appendix。（第 10、13 题）
 7. **被动语态（G06）**：is take off。（第 8 题）10-26 又出现 my flight might delay（应为 might be delayed）。
-8. **冠词与限定词（不单独设语法点，贯穿所有题目，见 `grammar/catalog.md`）**：most of tasks 出现了两次；the kernel / kernels；guide model 缺 the；get promotion 缺 an。（第 6、12、13 题）10-26：the boarding pass（应为 my）、until afternoon（缺 this）、hardwares（不可数）。
+8. **冠词与限定词（不单独设语法点，贯穿所有题目，见 `grammar/catalog.md`）**：most of tasks 出现了两次；the kernel / kernels；guide model 缺 the；get promotion 缺 an。（第 6、12、13 题）10-26：the boarding pass（应为 my）、until afternoon（缺 this）、hardwares（不可数）。10-28：next flight、miss connecting flight、take subway、baseline method、other GPU programming language（缺复数）、a traffic（不可数）。
 
 ## 常见中式表达
 
@@ -86,7 +87,7 @@
 | memory access mode | memory access patterns | 1 |
 | correctness drop down | accuracy drops by … | 1 |
 | Thanks for the reviewer | We thank the reviewer for … | 1 |
-| Is there any possibility to … | Would it be possible to …? | 1 |
+| Is there any possibility to … / Is there any possible to … | Would it be possible to …? | 2（第 15 题；10-28） |
 | with no extra fees | at no extra charge | 1 |
 | different with | different from / doesn't match | 1（10-15） |
 | lost my passport in …（落在） | left my passport in … | 1（10-15） |
@@ -113,10 +114,17 @@
 | backpack（箱子） | suitcase | 1（10-23） |
 | check why（看看为什么） | take a look at why / look into why | 1（10-23） |
 | my flight might delay（航班延误） | my flight might be delayed | 1（10-26） |
-| suit for / be useful for / be applicable for / be suitable for（适用于） | apply to / be applicable to | 6（10-26 ×3、10-27 ×3） |
+| suit for / be useful for / be applicable for / be suitable for（适用于） | apply to / be applicable to | 7（10-26 ×3、10-27 ×3、10-28） |
 | hardwares | hardware（不可数） | 2（10-26） |
 | put my luggage here until …（寄存） | leave my luggage here until … | 1（10-26） |
 | package（行李） | luggage / bags | 1（10-26） |
 | any reference about this point（参考文献） | any references on this point | 1（10-27） |
 | rent one（借） | borrow one | 1（10-27） |
 | forgot to take（在酒店说“忘带了”） | forgot to bring | 2（10-27） |
+| the last flight（前一班） | our first flight / our previous flight | 3（10-28） |
+| next flight（转机） | connecting flight / connection | 2（10-28） |
+| watch the room（看房间） | see / take a look at the room | 1（10-28） |
+| be blocked（堵车） | there's traffic / get stuck in traffic | 1（10-28） |
+| a traffic | traffic（不可数） | 1（10-28） |
+| To compare with（与……相比） | Compared with | 1（10-28） |
+| always（往往） | tends to / often | 2（10-28） |
