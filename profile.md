@@ -34,6 +34,7 @@
 | 2026-10-27 | 8（全复习；当天起进入阶段 2） | 4.56 | 63% | 5 次（3 轮） | “适用于”说成 be suitable for，重做到第 3 轮才改成 apply to（10-26 是 suit for / useful for）；参考文献说成单数 reference + about this point；换房间说成 exchange rooms；“借”说成 rent，“忘带”用 take。亮点：首次平均分目前最高；G10-P-02 以前错过的 iterations is、is helpful for、漏 that 全部改对；help me + 动词连续两天没出现；近 2 周平均 4.09 |
 | 2026-10-28 | 8（5 复习 + 3 新题） | 3.69 | 25% | 14 次（5 轮） | 3 道新题都没过：虚拟语气首答完全没用（If I know …, we take …），重做里主句说成 would take / would taken，第 5 次才说出 would have taken；“往往”说成 always，To compare with 代替 Compared with；Is there any possible to 代替 Would it be possible to，漏译“几天”。复习题：“前一班”说成 the last flight（3 次）、转机说成 next flight；看房间用 watch、加料 layout、before I booked；applicable for。冠词、单复数、主谓一致集中出现（next flight、take subway、baseline method、other … language、a traffic、GEAK tend）。亮点：复习题平均 4.20，G01-P-01、G10-T-02 首答满分；近 2 周平均 4.04 |
 | 2026-10-29 | 8（全复习；10 题到期，2 题顺延到 10-30） | 4.19 | 50% | 7 次（3 轮） | 首答没过的 4 题：登机牌说成 passport；出差说成 go outside、组会漏 group、Shall we 代替 Would it be possible to；applicable for（累计第 4 次）、CUDA written kernels；虚拟语气首答“提前”说成句尾 before、“这么久”说成 for a long time，重做时两次把从句的 I'd have to 套进主句（I'd have to check in）。首答通过的 4 题都差一处：suggest 后漏 that（第 4 次）、forgot to take、references about this point、漏 for me。重做中出现 is died、the boarding pass。亮点：G03-T-01 换成变体句后首答主句 would have + 过去分词一次说对；G01-P-03 重做一次满分；近 2 周平均 4.13 |
+| 2026-10-30 | 8（全复习；10-31 又是正好 8 题到期） | 4.06 | 38% | 8 次（3 轮） | 首答没过的 5 题：“往往”又说成 always（累计 3 次）、help for 代替 yield / bring；推测句漏 might、“都”说成 most、“旺季”说成 so popular（重做时 hot season，“订满”整个漏掉）；“显卡不够用”说成 Our graphics card is short on usage；“订房”说成 order（累计 4 次）；虚拟语气变体句首答 wouldn't have booked 对但漏“这么”，重做时主句说成 wouldn't order、wouldn't booked（缺 have）。亮点：G01-T-02、G10-P-03（applicable to 终于接对介词）、G10-T-01 首答满分；Would it be possible to 用对，Shall we 没再出现；近 2 周平均 4.19 |
 
 ## 摸底得分
 
@@ -59,20 +60,20 @@
 
 按优先级排序，括号里是对应的 `grammar/catalog.md` 编号和摸底题号。
 
-1. **Hedging 与情态（G10）**：好像、往往、不足以、可能，不是漏掉就是说得太绝对。（第 3、12、14 题）10-28：“往往”说成 always（论文里等于把话说满），重做两次才用上 tends to。论文里 suggest 后的 that 已经漏了 4 次（10-21、10-23、10-26、10-29）。
+1. **Hedging 与情态（G10）**：好像、往往、不足以、可能，不是漏掉就是说得太绝对。（第 3、12、14 题）10-28：“往往”说成 always（论文里等于把话说满），重做两次才用上 tends to。论文里 suggest 后的 that 已经漏了 4 次（10-21、10-23、10-26、10-29）。10-30：“往往”再次说成 always（累计 3 次）；推测句 G10-T-03 首答漏 might，变成陈述。
 2. **委婉请求与许可（G01）**：习惯用 help me + 动词、Is there any possibility to、Can you；不熟悉 Would it be possible to / Would you mind …ing。（第 3、5、11、15 题）10-29：“能不能”说成 Shall we（提议），因为自己的原因请别人配合改时间，用 Would it be possible to 更客气。
-3. **虚拟语气（G03）**：对过去的假设用了真实条件句。（第 15 题）10-28 第一次在练习中出现（G03-T-01）：首答又是 If I know …, we take …；从句 If I'd known 学得快，主句 would have + 过去分词最难，先后说成 would take、would taken，重做 5 次才说对。10-29 换成变体句（排队值机）后首答主句 I'd have checked in 一次说对；但重做时受从句 I'd have to wait 影响，两次说成 I'd have to check in（= 我就得去值机），要分清 would have to + 动词原形和 would have + 过去分词。
+3. **虚拟语气（G03）**：对过去的假设用了真实条件句。（第 15 题）10-28 第一次在练习中出现（G03-T-01）：首答又是 If I know …, we take …；从句 If I'd known 学得快，主句 would have + 过去分词最难，先后说成 would take、would taken，重做 5 次才说对。10-29 换成变体句（排队值机）后首答主句 I'd have checked in 一次说对；但重做时受从句 I'd have to wait 影响，两次说成 I'd have to check in（= 我就得去值机），要分清 would have to + 动词原形和 would have + 过去分词。10-30 变体句（酒店离市区）：首答否定主句 wouldn't have booked 一次说对，但重做时缺 have 的错误回潮（wouldn't order → wouldn't booked），第 3 次才说对。
 4. **比较级与程度（G13）**：over 2×、by 15%、quieter、Unlike 的比较对象必须同类。（第 4、6、8、15 题）
 5. **时态与完成体（G14）**：叙述已发生的事用了现在时；rebuttal 中"已补充"应该用现在完成时。（第 7、9、10、11 题）
 6. **礼貌拒绝与协商 / rebuttal（G20）**：We thank the reviewer for、We agree that … would、we have added … in the appendix。（第 10、13 题）
 7. **被动语态（G06）**：is take off。（第 8 题）10-26 又出现 my flight might delay（应为 might be delayed）。
-8. **冠词与限定词（不单独设语法点，贯穿所有题目，见 `grammar/catalog.md`）**：most of tasks 出现了两次；the kernel / kernels；guide model 缺 the；get promotion 缺 an。（第 6、12、13 题）10-26：the boarding pass（应为 my）、until afternoon（缺 this）、hardwares（不可数）。10-28：next flight、miss connecting flight、take subway、baseline method、other GPU programming language（缺复数）、a traffic（不可数）。10-29：the boarding pass（应为 my，累计 3 次）、the meeting（组会漏了 group）。
+8. **冠词与限定词（不单独设语法点，贯穿所有题目，见 `grammar/catalog.md`）**：most of tasks 出现了两次；the kernel / kernels；guide model 缺 the；get promotion 缺 an。（第 6、12、13 题）10-26：the boarding pass（应为 my）、until afternoon（缺 this）、hardwares（不可数）。10-28：next flight、miss connecting flight、take subway、baseline method、other GPU programming language（缺复数）、a traffic（不可数）。10-29：the boarding pass（应为 my，累计 3 次）、the meeting（组会漏了 group）。10-30：hotels in downtown（应为 hotels downtown）、graphics card 单数（应为 GPUs）、漏“这么”（this far）。
 
 ## 常见中式表达
 
 | 中式说法 | 地道说法 | 出现次数 |
 |---|---|---|
-| order a room / flight | book a room / flight | 3（第 1、13、15 题） |
+| order a room / flight | book a room / flight | 5（第 1、13、15 题；10-30 ×2） |
 | most of tasks / most of test cases | most tasks / most of the tasks | 2（第 6、12 题） |
 | help me check / help me fix / help me order / helping me to take a look / help me bring it up | double-check that for me / take a look / Could you book me … / Would you mind taking a look … (for me) / Could you bring it up … | 7（第 5、11 题；10-15 G01-T-02；10-21 G01-P-02；10-23 G01-P-02 ×2、G01-T-02） |
 | the overweight part | excess baggage fee / the extra weight | 1 |
@@ -115,7 +116,7 @@
 | backpack（箱子） | suitcase | 1（10-23） |
 | check why（看看为什么） | take a look at why / look into why | 1（10-23） |
 | my flight might delay（航班延误） | my flight might be delayed | 1（10-26） |
-| suit for / be useful for / be applicable for / be suitable for（适用于） | apply to / be applicable to | 9（10-26 ×3、10-27 ×3、10-28、10-29 ×2） |
+| suit for / be useful for / be applicable for / be suitable for（适用于） | apply to / be applicable to | 9（10-26 ×3、10-27 ×3、10-28、10-29 ×2；10-30 已改对） |
 | hardwares | hardware（不可数） | 2（10-26） |
 | put my luggage here until …（寄存） | leave my luggage here until … | 1（10-26） |
 | package（行李） | luggage / bags | 1（10-26） |
@@ -128,8 +129,12 @@
 | be blocked（堵车） | there's traffic / get stuck in traffic | 1（10-28） |
 | a traffic | traffic（不可数） | 1（10-28） |
 | To compare with（与……相比） | Compared with | 1（10-28） |
-| always（往往） | tends to / often | 2（10-28） |
+| always（往往） | tends to / often | 3（10-28 ×2、10-30） |
 | go outside（出差） | go on a business trip / be away on business | 1（10-29） |
 | 句尾单独的 before（提前） | in advance / ahead of time | 1（10-29） |
 | for a long time（这么久） | this long | 1（10-29） |
 | CUDA written kernels（用 CUDA 编写的 kernel） | kernels written in CUDA / CUDA kernels | 1（10-29） |
+| graphics card is short on usage（显卡不够用） | We don't have enough GPUs / We're short on GPUs | 1（10-30） |
+| help for / more speedups（带来更大的提速） | yield / bring larger speedups | 1（10-30） |
+| hot season / so popular（旺季） | peak season / high season | 1（10-30） |
+| wouldn't order / wouldn't booked（对过去的假设主句） | wouldn't have booked | 2（10-30） |

@@ -221,7 +221,7 @@
   },
   "G01-P-03": {
     "streak": 0,
-    "due": "2026-10-30",
+    "due": "2026-10-31",
     "mastered": false,
     "history": [
       {
@@ -247,6 +247,19 @@
         "date": "2026-10-29",
         "score": 5,
         "variant": 1,
+        "pass": true,
+        "retry": true
+      },
+      {
+        "date": "2026-10-30",
+        "score": 3,
+        "variant": 2,
+        "pass": false
+      },
+      {
+        "date": "2026-10-30",
+        "score": 4.5,
+        "variant": 2,
         "pass": true,
         "retry": true
       }
@@ -337,8 +350,8 @@
     ]
   },
   "G01-T-02": {
-    "streak": 0,
-    "due": "2026-10-30",
+    "streak": 1,
+    "due": "2026-10-31",
     "mastered": false,
     "history": [
       {
@@ -443,12 +456,18 @@
         "variant": 2,
         "pass": true,
         "retry": true
+      },
+      {
+        "date": "2026-10-30",
+        "score": 5,
+        "variant": 1,
+        "pass": true
       }
     ]
   },
   "G01-T-03": {
-    "streak": 1,
-    "due": "2026-10-30",
+    "streak": 0,
+    "due": "2026-10-31",
     "mastered": false,
     "history": [
       {
@@ -502,12 +521,25 @@
         "score": 4.5,
         "variant": 1,
         "pass": true
+      },
+      {
+        "date": "2026-10-30",
+        "score": 4,
+        "variant": 2,
+        "pass": false
+      },
+      {
+        "date": "2026-10-30",
+        "score": 4.5,
+        "variant": 2,
+        "pass": true,
+        "retry": true
       }
     ]
   },
   "G03-T-01": {
     "streak": 0,
-    "due": "2026-10-30",
+    "due": "2026-10-31",
     "mastered": false,
     "history": [
       {
@@ -575,6 +607,33 @@
         "date": "2026-10-29",
         "score": 5,
         "variant": 1,
+        "pass": true,
+        "retry": true
+      },
+      {
+        "date": "2026-10-30",
+        "score": 4,
+        "variant": 2,
+        "pass": false
+      },
+      {
+        "date": "2026-10-30",
+        "score": 2.5,
+        "variant": 2,
+        "pass": false,
+        "retry": true
+      },
+      {
+        "date": "2026-10-30",
+        "score": 3.5,
+        "variant": 2,
+        "pass": false,
+        "retry": true
+      },
+      {
+        "date": "2026-10-30",
+        "score": 5,
+        "variant": 2,
         "pass": true,
         "retry": true
       }
@@ -810,8 +869,8 @@
     ]
   },
   "G10-P-03": {
-    "streak": 0,
-    "due": "2026-10-30",
+    "streak": 1,
+    "due": "2026-10-31",
     "mastered": false,
     "history": [
       {
@@ -886,12 +945,18 @@
         "variant": 1,
         "pass": true,
         "retry": true
+      },
+      {
+        "date": "2026-10-30",
+        "score": 5,
+        "variant": 2,
+        "pass": true
       }
     ]
   },
   "G10-P-04": {
     "streak": 0,
-    "due": "2026-10-29",
+    "due": "2026-10-31",
     "mastered": false,
     "history": [
       {
@@ -920,12 +985,25 @@
         "variant": 0,
         "pass": true,
         "retry": true
+      },
+      {
+        "date": "2026-10-30",
+        "score": 3.5,
+        "variant": 1,
+        "pass": false
+      },
+      {
+        "date": "2026-10-30",
+        "score": 4.5,
+        "variant": 1,
+        "pass": true,
+        "retry": true
       }
     ]
   },
   "G10-T-01": {
-    "streak": 3,
-    "due": "2026-10-30",
+    "streak": 4,
+    "due": "2026-11-06",
     "mastered": false,
     "history": [
       {
@@ -1010,6 +1088,12 @@
         "date": "2026-10-26",
         "score": 5,
         "variant": 2,
+        "pass": true
+      },
+      {
+        "date": "2026-10-30",
+        "score": 5,
+        "variant": 1,
         "pass": true
       }
     ]
@@ -1127,7 +1211,7 @@
   },
   "G10-T-03": {
     "streak": 0,
-    "due": "2026-10-29",
+    "due": "2026-10-31",
     "mastered": false,
     "history": [
       {
@@ -1167,6 +1251,26 @@
         "date": "2026-10-28",
         "score": 4.5,
         "variant": 1,
+        "pass": true,
+        "retry": true
+      },
+      {
+        "date": "2026-10-30",
+        "score": 3,
+        "variant": 2,
+        "pass": false
+      },
+      {
+        "date": "2026-10-30",
+        "score": 2,
+        "variant": 2,
+        "pass": false,
+        "retry": true
+      },
+      {
+        "date": "2026-10-30",
+        "score": 4.5,
+        "variant": 2,
         "pass": true,
         "retry": true
       }
