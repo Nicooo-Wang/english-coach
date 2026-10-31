@@ -138,3 +138,11 @@
 | help for / more speedups（带来更大的提速） | yield / bring larger speedups | 1（10-30） |
 | hot season / so popular（旺季） | peak season / high season | 1（10-30） |
 | wouldn't order / wouldn't booked（对过去的假设主句） | wouldn't have booked | 2（10-30） |
+| extend the meeting to Friday（改期） | move / reschedule the meeting to Friday | 1（10-31） |
+| Memory-bound kernels（访存模式规则的算子） | operators with regular memory access patterns（memory-bound = 受访存带宽限制） | 1（10-31） |
+| much quiet（“安静多了”） | much quieter than ...（比较级不能漏） | 1（10-31） |
+| than I just looked at（比刚才那间） | than the one I just looked at | 3（10-31） |
+| How about booking this one?（就要这间吧） | I'll take this one | 1（10-31） |
+| 虚拟语气从句没退一格：If I'd known I need to wait | If I'd known I'd have to wait / the line would be ...（主句 would have + 过去分词） | 2（10-31） |
+| stucked / getting stopped / are likely get（陷入、很可能） | get stuck / would likely get stuck / are likely to get stuck | 4（10-31） |
+| The previous flight late / is getting delayed（晚点了） | Our previous flight was delayed, so ... | 3（10-31） |

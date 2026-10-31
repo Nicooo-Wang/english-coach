@@ -75,8 +75,8 @@ function promptFor(q, attempt) {
 
 function cmdToday(opts) {
   const today = opts.date || localDate();
-  const limit = Number(opts.limit ?? 8);
-  const newMax = Number(opts["new-max"] ?? 8);
+  const limit = Number(opts.limit ?? 10);
+  const newMax = Number(opts["new-max"] ?? 10);
   const bank = loadBank();
   const cards = loadCards();
   const byId = new Map(bank.map((q) => [q.id, q]));

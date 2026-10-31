@@ -15,7 +15,7 @@
 | 应用方向 | ① 论文写作与表达：LLM Agent 自动生成和优化 GPU kernel 方向，代表作是 GEAK（AMD）和 AVO（NVIDIA），素材见 `corpus/papers.md` ② 出国旅行（机场、免税、酒店入住/退房、投诉、改签等复杂交互） |
 | 题库组织 | 从两类场景提炼共性语法点，每个语法点 × 每类场景 5 题 |
 | 题库规模 | 先做 200 题（约 20 个语法点 × 2 场景 × 5 题），之后按需扩充 |
-| 每日题量 | 复习 + 新题一共 8 题（用户 2026-10-14 调整），到期复习优先，剩余名额补新题 |
+| 每日题量 | 复习 + 新题一共 10 题（用户 2026-10-14 调整为 8，2026-10-31 调整为 10），到期复习优先，剩余名额补新题 |
 | 每日闭环 | 当天每道题都至少有一次 ≥ 4.5，当天练习才算结束；没到 4.5 的题当天循环重做（用户 2026-10-15 要求，见 4.2） |
 | 出题方式 | 一次一题，逐题反馈；反馈 = 更 native 的说法 + 总分 + 3–5 行点评（见 3.5） |
 | 句子长度 | 前期出较短的句子（约 15–22 个汉字，一个短背景分句 + 一个考点）；用户评分稳定提高后再逐步加长，加入复杂场景（见 5.1） |
@@ -124,7 +124,7 @@ english-coach/
 ### 4.1 脚本命令
 
 ```
-node scripts/srs.mjs today [--limit 8] [--new-max 8] [--date YYYY-MM-DD]
+node scripts/srs.mjs today [--limit 10] [--new-max 10] [--date YYYY-MM-DD]
 node scripts/srs.mjs record <id> <score> [--date YYYY-MM-DD]
 node scripts/srs.mjs stats [--date YYYY-MM-DD]
 node scripts/srs.mjs validate        # 校验题库格式
@@ -233,5 +233,6 @@ node scripts/srs.mjs validate        # 校验题库格式
 - [x] 2026-10-28 第 9 天：5 道复习 + 3 道新题（G01-P-03、G03-T-01、G10-P-04），首次平均 3.69，通过 2 题（复习题平均 4.20；新题平均 2.83，都没过）；重做 14 次（5 轮）后闭环；典型错误已补进 6 道题的 notes。G03-T-01（第 2 批第一题）虚拟语气首答完全没用，主句 would have + 过去分词重做 5 次才说对。近 7 天平均 4.25，近 2 周平均 4.04
 - [x] 2026-10-29 第 10 天：8 题全复习（10 题到期，G10-P-04、G10-T-03 顺延），首次平均 4.19，通过 4 题；重做 7 次（3 轮）后闭环；典型错误已补进 G01-T-02、G10-P-02、G03-T-01、G10-P-03、G01-P-03 的 notes。G03-T-01 换成变体句（排队值机）后首答主句 would have + 过去分词说对，但重做时两次说成 I'd have to check in（把从句的 would have to 套进了主句），第 3 次才说回来；G10-P-03 还是 applicable for（累计 4 次）。近 7 天平均 4.24，近 2 周平均 4.13
 - [x] 2026-10-30 第 11 天：8 题全复习（正好 8 题到期），首次平均 4.06，通过 3 题（G01-T-02、G10-P-03、G10-T-01 满分）；重做 8 次（3 轮）后闭环；典型错误已补进 G10-P-04、G10-T-03、G01-P-03、G01-T-03、G03-T-01 的 notes。G10-P-03 的 applicable to 终于接对介词；G03-T-01 变体句首答否定主句 wouldn't have booked 说对，但重做时缺 have（wouldn't order、wouldn't booked），第 3 次才说对；“订”说成 order（累计 4 次）；“往往”又说成 always（累计 3 次）。近 7 天平均 4.15，近 2 周平均 4.19（阶段 3 门槛 4.3）
-- [ ] **下一步**：坚持每日练习（每天 8 题 + 闭环重做）。10-31 又是正好 8 题到期，全部是复习、不出新题：G01-P-01，加上今天首答没过的 G10-P-04、G10-T-03、G01-P-03、G01-T-03、G03-T-01，以及 streak 刚到 1 的 G01-T-02、G10-P-03（G10-T-01 streak 4，11-06 再复习）。新题已连续三天（10-29、10-30、10-31）出不来，10-31 开始前先问用户要不要临时调高每日题量（比如 10 题），或者让到期题先清掉；用户不同意就保持 8 题。重点看：G03-T-01 否定主句 wouldn't have booked（have 别丢、book 别说成 order）；G10-P-04 的“往往”要说 tend to，别说 always；G10-T-03 推测句别漏 might、“都”要用 all；G01-T-03 的 book、first；G01-P-03 的 We don't have enough GPUs + for a while。阶段 2 的 level 3 题出现后（新题队列第 5 位 G13-T-04），留意长句里的漏译和从句结构，按表现调整后续批次里 level 3 的比例
+- [x] 2026-10-31 用户把每日题量改成 10（脚本默认值 --limit / --new-max 也已改为 10）。第 12 天：8 道复习 + 2 道新题（G13-T-01、G03-P-01），首次平均 3.60，通过 2 题（G01-P-01、G10-P-03，都是 4.5）；重做 24 次后闭环。新题 G13-T-01 首答 3.0、G03-P-01 首答 4.0，都没过。G03-T-01 虚拟语气首答 2.5，重做 5 次才完整说对（从句要退一格、主句 would have + 过去分词）；G03-P-01 的 Without X + would likely get stuck 重做 6 次才说稳（might / are likely to / would 叠用、stucked、缺 to）；G10-T-03 的“晚点了”说成 getting late / is getting delayed（应为 was delayed）。语音识别误识别（this long → this tour）已按 3.3 更正。近 7 天平均 4.04，近 2 周平均 4.12。典型错误已补进 9 道题的 notes 和 `profile.md`
+- [ ] **下一步**：坚持每日练习（每天 10 题 + 闭环重做）。11-01 到期 9 道复习（G01-P-03、G01-T-02、G01-T-03、G03-P-01、G03-T-01、G10-P-04、G10-T-02、G10-T-03、G13-T-01），加 1 道新题 G10-T-04。重点看：G03 虚拟语气（从句退一格、主句 would have + 过去分词，wait in line、this long 别漏）；G03-P-01 的 Without the Reflector, the agent would likely get stuck（stuck 不加 -ed、would likely 别叠用其他概率词）；G10-T-03 晚点要用 was delayed + so；G13-T-01 than the one ...；G01-P-03 改期用 move，不用 extend；G01-T-03 forgot to bring（累计 4 次 take）；G10-P-04 regular memory access patterns（复数）。阶段 2 的 level 3 题出现后（新题队列第 5 位 G13-T-04），留意长句里的漏译和从句结构，按表现调整后续批次里 level 3 的比例
 - [ ] 第 3 批题目（G14 时态与完成体、G20 礼貌拒绝与协商 / rebuttal）：新题队列还有 26 道，暂时够用；剩 10 道左右时开始出第 3 批。生成后先给用户过目，再写入 `bank/questions.jsonl`，插到合适的位置，保持交替排列。
