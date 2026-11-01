@@ -116,6 +116,7 @@ english-coach/
    - 运行 `node scripts/srs.mjs stats`，给出当天小结：平均分、通过率、新学会的表达、反复出错的点
    - 如果发现新的薄弱点，更新 `profile.md`
    - `git add -A && git commit -m "practice: YYYY-MM-DD" && git push`
+   - **推送规则（用户 2026-11-01 要求）**：用户让推送时，直接提交并推到 `main`，不要新建分支，也不要创建 PR。
 
 如果中途中断，下次再运行 `today`，脚本会自动扣掉当天已做的题数，只给出剩余的题。
 
