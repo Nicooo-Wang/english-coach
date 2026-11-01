@@ -4,7 +4,7 @@
 
 ## 练习偏好
 
-- 每天 8 题
+- 每天 10 题
 - 反馈：更 native 的说法（错误处加粗）+ 总分 + 3–5 行点评；回答提问两三行讲清，不列长清单
 - 句子长度：**当前处于阶段 2**（2026-10-27 起，用户同意）。在阶段 1 的短句（约 15–22 字，一个短背景分句 + 主句；用户觉得 8–15 字太短）之外，少量混入约 22–30 字、带一个从句或条件的 level 3 题。升阶段规则见 `AGENTS.md` 5.1
 
@@ -35,6 +35,7 @@
 | 2026-10-28 | 8（5 复习 + 3 新题） | 3.69 | 25% | 14 次（5 轮） | 3 道新题都没过：虚拟语气首答完全没用（If I know …, we take …），重做里主句说成 would take / would taken，第 5 次才说出 would have taken；“往往”说成 always，To compare with 代替 Compared with；Is there any possible to 代替 Would it be possible to，漏译“几天”。复习题：“前一班”说成 the last flight（3 次）、转机说成 next flight；看房间用 watch、加料 layout、before I booked；applicable for。冠词、单复数、主谓一致集中出现（next flight、take subway、baseline method、other … language、a traffic、GEAK tend）。亮点：复习题平均 4.20，G01-P-01、G10-T-02 首答满分；近 2 周平均 4.04 |
 | 2026-10-29 | 8（全复习；10 题到期，2 题顺延到 10-30） | 4.19 | 50% | 7 次（3 轮） | 首答没过的 4 题：登机牌说成 passport；出差说成 go outside、组会漏 group、Shall we 代替 Would it be possible to；applicable for（累计第 4 次）、CUDA written kernels；虚拟语气首答“提前”说成句尾 before、“这么久”说成 for a long time，重做时两次把从句的 I'd have to 套进主句（I'd have to check in）。首答通过的 4 题都差一处：suggest 后漏 that（第 4 次）、forgot to take、references about this point、漏 for me。重做中出现 is died、the boarding pass。亮点：G03-T-01 换成变体句后首答主句 would have + 过去分词一次说对；G01-P-03 重做一次满分；近 2 周平均 4.13 |
 | 2026-10-30 | 8（全复习；10-31 又是正好 8 题到期） | 4.06 | 38% | 8 次（3 轮） | 首答没过的 5 题：“往往”又说成 always（累计 3 次）、help for 代替 yield / bring；推测句漏 might、“都”说成 most、“旺季”说成 so popular（重做时 hot season，“订满”整个漏掉）；“显卡不够用”说成 Our graphics card is short on usage；“订房”说成 order（累计 4 次）；虚拟语气变体句首答 wouldn't have booked 对但漏“这么”，重做时主句说成 wouldn't order、wouldn't booked（缺 have）。亮点：G01-T-02、G10-P-03（applicable to 终于接对介词）、G10-T-01 首答满分；Would it be possible to 用对，Shall we 没再出现；近 2 周平均 4.19 |
+| 2026-11-01 | 10（9 道复习 + 1 道新题 G10-T-04） | 3.50 | 10% | 14 次（3 轮） | 首答只有 G01-T-02 通过（home 是 room 的语音识别错误，按 3.3 不扣分）。没过的：G13-T-01 2.5（Take train 作主语、缺 the、not much expensive 缺 more、漏 either，重做 #1 又说成 much more faster，#2 才满分）；G10-T-04 2.5（新题，I wait、half of an hour、漏“多”“好像”，重做时 package、seem to be come 各错 2 次）；G03-P-01 3.0（kernel generation 偏义、很可能说 might 累计 3 次、much more slower）；G03-T-01 3.5（从句 is 没退一格、漏“这么”、order 累计 8 次，重做 #2 主句退回 won't have to order，#5 才满分）。亮点：G10-P-04 的 tend to 没再说 always、G10-T-03 的 might all be booked up 对；G01-P-03 漏“一下” for a while 但重做后补上。近 7 天平均 3.95，近 2 周平均 4.05 |
 
 ## 摸底得分
 
@@ -146,3 +147,11 @@
 | 虚拟语气从句没退一格：If I'd known I need to wait | If I'd known I'd have to wait / the line would be ...（主句 would have + 过去分词） | 2（10-31） |
 | stucked / getting stopped / are likely get（陷入、很可能） | get stuck / would likely get stuck / are likely to get stuck | 4（10-31） |
 | The previous flight late / is getting delayed（晚点了） | Our previous flight was delayed, so ... | 3（10-31） |
+| Take train is faster / more faster / much more slower（比较级） | Taking the train is much faster；短词 -er、长词 more，不叠用 | 3（11-01） |
+| not much expensive（贵不了多少） | not much more expensive either | 1（11-01） |
+| half of an hour / over half of an hour | half an hour | 2（11-01） |
+| doesn't seem to be come out（行李还没出来） | doesn't seem to have come out yet | 2（11-01） |
+| exchange（零钱） | change | 1（11-01） |
+| Our GPU is not enough（显卡不够用） | We don't have enough GPUs | 1（11-01） |
+| 虚拟语气从句 is this far / won't have to order | If we'd known ... was this far ..., we wouldn't have booked | 3（11-01，order 累计 8 次） |
+| might（“很可能”） | would likely / are likely to | 累计 3 次（11-01） |
