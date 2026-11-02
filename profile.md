@@ -155,3 +155,9 @@
 | Our GPU is not enough（显卡不够用） | We don't have enough GPUs | 1（11-01） |
 | 虚拟语气从句 is this far / won't have to order | If we'd known ... was this far ..., we wouldn't have booked | 3（11-01，order 累计 8 次） |
 | might（“很可能”） | would likely / are likely to | 累计 3 次（11-01） |
+| more easier（比较级叠用） | easier；短词 -er、长词 more | 累计 4 次（11-02 重做） |
+| forgot to take my charger（忘带） | forgot to bring my charger | 累计 5 次（11-02） |
+| applicable for | applicable to | 累计 5 次（11-02） |
+| suggest more iterations helps for | suggest that more iterations help achieve | help for 累计 2 次（11-02） |
+| a lot of wrong kernel will be taken | many incorrect kernels would be treated | kernel 漏复数、may / will 代替 would（11-02，重做仍漏复数和 be） |
+| 虚拟语气从句 I need to wait for this long | the line would be this long（从句退一格、this long 不加 for） | 11-02 首答和重做都没退 |
